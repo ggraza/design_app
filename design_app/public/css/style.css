@@ -663,7 +663,8 @@ body .main-section #main-body .layout-side-section {
 }
 
 body .main-section #main-body .layout-side-section .list-sidebar {
-    padding-bottom: 1rem;
+    /* padding-bottom: 1rem; */
+    padding-bottom: 0rem !important;
     border-bottom: 1px solid #DADADA;
 }
 
